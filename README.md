@@ -36,25 +36,3 @@ https://github.com/ttomczak3/Milky-Way.git
 | `npm run preview` | Preview your build locally, before deploying |
 
 Edit the HTML files in the `src/pages` directory to add your projects, experiences, and personal information. You can also modify the CSS styles in `src/styles` to match your preferences.
-
-## 📂 Project Structure
-
-```
-/
-├── public/
-│   └── GitHub.webp
-│   └── blog-post.webp
-│   └── blog.webp
-│   └── favicon.svg
-│   └── laptop.webp
-│   └── space.webp
-│   └── youtube.webp
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   ├── pages/
-│   ├── styles/
-│   └── env.d.ts
-└── package.json
-```
